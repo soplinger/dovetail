@@ -1,0 +1,7 @@
+# Carcase joinery for a small walnut chest
+units mm
+
+dovetail sides width=300 stock=18 tails=4 ratio=8
+dovetail drawer-front width=400 stock=15 tails=5 ratio=6 min=5
+box drawer-box width=400 finger=15 stock=15
+tenon rail-tenon stock=18 length=20

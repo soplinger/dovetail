@@ -1,0 +1,5 @@
+units mm
+dovetail sides width=300 stock=18 tails=40 ratio=8
+box drawer width=400 finger=abc
+tenon rail stock=18
+dovetail sides width=10 stock=18 tails=2
